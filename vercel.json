@@ -6,5 +6,5 @@
       "use": "vercel/node"
     }
   ],
-  "reotes": [{ "src": "/(.*)", "dest": "/" }]
+  "routes": [{ "src": "/(.*)", "dest": "/" }]
 }
